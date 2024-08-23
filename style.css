@@ -1,0 +1,80 @@
+*{
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+
+}
+
+body{
+
+    background: blue;
+
+}
+
+.paren{
+
+
+    position: relative;
+
+
+}
+
+.cajacontrol{
+
+border: 1px solid;
+width: 250px;
+padding: 10px;
+height: 300px;
+position: absolute;
+top: 30px;
+background: white;
+
+}
+
+
+.control{
+
+    margin: 10PX;
+    display: flex;  
+}
+
+button{
+
+    position: absolute;
+    top: 85%;
+    width: 90%;
+    padding: 5px;
+    cursor: pointer;
+}
+
+
+.description{
+
+    margin-top:20px;
+    text-align: center;    
+    margin-left: 100px;
+    color: aliceblue;
+
+}
+
+h2{
+
+    background: white;
+    border: 1px solid white;
+   border-radius:4px ;
+    padding: 10px;
+
+
+}
+
+
+.lista{
+
+    border: 1px solid;
+   width: 100%;
+   
+
+
+}
